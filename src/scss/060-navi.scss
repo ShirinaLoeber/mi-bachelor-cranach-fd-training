@@ -1,3 +1,12 @@
-nav{
+nav {
     margin-bottom: 20px;
+
+    ul {
+        display: flex;
+
+        li {
+            margin-right: 20%;
+        }
+    }
+
 }

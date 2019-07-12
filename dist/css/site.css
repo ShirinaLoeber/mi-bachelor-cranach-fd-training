@@ -426,6 +426,10 @@ ul li {
 
 nav {
   margin-bottom: 20px; }
+  nav ul {
+    display: flex; }
+    nav ul li {
+      margin-right: 20%; }
 
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0-modified | 20110126
@@ -854,6 +858,10 @@ ul li {
 
 nav {
   margin-bottom: 20px; }
+  nav ul {
+    display: flex; }
+    nav ul li {
+      margin-right: 20%; }
 
 .m-herotext {
   font-size: 1.3rem;
